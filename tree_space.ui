@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+    <author/>
+    <comment/>
+    <exportmacro/>
+    <class>tree_space</class>
+    <widget class="QWidget" name="tree_space">
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>600</width>
+                <height>600</height>
+            </rect>
+        </property>
+        <property name="windowTitle">
+            <string>tree_space</string>
+        </property>
+    </widget>
+    <pixmapfunction/>
+    <connections/>
+</ui>
